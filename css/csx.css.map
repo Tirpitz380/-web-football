@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAI,GAAC,KAAK,EAAE,IAAI,EAAC,MAAM,EAAE,IAAI,EAAE,gBAAgB,EAAE,WAAW",
+"sources": ["../../%E8%B6%B3%E7%90%83/css/csx.scss"],
+"names": [],
+"file": "csx.css"
+}
